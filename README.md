@@ -5,7 +5,7 @@ A repository for my independent study.
 
 ## [MNIST](https://docs.google.com/document/d/1iaJEv1sOx5FjoCVNIX0-dzgbP0rO6hFoSGtBLfjF_wg/edit)  
 
-## Principal Components Analysis (PCA)  
+## Principal Component Analysis (PCA)  
 [Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)  
 [StatQuest](https://www.youtube.com/watch?v=FgakZw6K1QQ)  
 
@@ -31,9 +31,14 @@ A repository for my independent study.
 ### Divisive
 Need to find a couple resources.  
 
-## DBSCAN (Density-based Spatial Clustering of Applications with Noise)
+## Density-based Spatial Clustering of Applications with Noise (DBSCAN)
 [Wikipedia](https://en.wikipedia.org/wiki/DBSCAN)  
 [StatQuest](https://www.youtube.com/watch?v=RDZUdRSDOok)
+
+## Linear Discriminant Analysis (LDA)
+[Wikipedia](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)  
+[StatQuest](https://www.youtube.com/watch?v=azXCzI57Yfc)  
+[Linear Discriminant Analysis, Explained](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b) by Yang Xiaozhu ([Blog Post](https://yangxiaozhou.github.io/data/2019/10/02/linear-discriminant-analysis.html))   
 
 
 # Resources  
