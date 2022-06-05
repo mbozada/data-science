@@ -13,6 +13,7 @@ A repository for my independent study.
 ## Multidimensional Scaling (MDS)  
 [Wikipedia](https://en.wikipedia.org/wiki/Multidimensional_scaling)  
 [StatQuest](https://www.youtube.com/watch?v=GEn-_dAyYME)  
+[StackAbuse - Guide to Multidimsensional Scaling in Python with Scikit-Learn](https://stackabuse.com/guide-to-multidimensional-scaling-in-python-with-scikit-learn/) by Mehreen Saeed  
 
 ## t-Distributed Stochastic Neighbor Embedding (t-SNE)
 [Wikipedia](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)  
