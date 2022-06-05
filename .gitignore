@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+forest_cover.csv
+songs.csv
