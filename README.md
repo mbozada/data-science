@@ -1,6 +1,7 @@
 # data-science
 A repository for my independent study.
 
+
 # Topics
 
 ## [MNIST](https://docs.google.com/document/d/1iaJEv1sOx5FjoCVNIX0-dzgbP0rO6hFoSGtBLfjF_wg/edit)  
@@ -38,13 +39,28 @@ Need to find a couple resources.
 ## Linear Discriminant Analysis (LDA)
 [Wikipedia](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)  
 [StatQuest](https://www.youtube.com/watch?v=azXCzI57Yfc)  
-[Linear Discriminant Analysis, Explained](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b) by Yang Xiaozhu ([Blog Post](https://yangxiaozhou.github.io/data/2019/10/02/linear-discriminant-analysis.html))   
+[scikit-learn](https://scikit-learn.org/stable/modules/lda_qda.html#lda-qda)   
+
+## Cluster Quality Metrics
+
+### Davies-Bouldin Index (DBI)
+[Wikipedia](https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index) 
+
+### Silhouette Score
+[Wikipedia](https://en.wikipedia.org/wiki/Silhouette_(clustering))  
+[Towards Data Science - Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c#:~:text=Silhouette%20Coefficient%20or%20silhouette%20score%20is%20a%20metric%20used%20to,each%20other%20and%20clearly%20distinguished.) by Ashutosh Bhardwaj   
+
+## Fitting
+[StatQuest - Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)  
+[IBM - Overfitting](https://www.ibm.com/cloud/learn/overfitting)  
+[IBM - Underfitting](https://www.ibm.com/cloud/learn/underfitting)  
+[StatQuest - Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
 
 
 # Resources  
 
 ## Datasets  
-[UC Irvine Machine Learning Repositor](https://archive-beta.ics.uci.edu/ml/datasets)  
+[UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)  
 [Kaggle](https://www.kaggle.com/datasets)
 
 ### [Cover Type](https://archive-beta.ics.uci.edu/ml/datasets/covertype)
