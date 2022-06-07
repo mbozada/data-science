@@ -44,6 +44,7 @@ Need to find a couple resources.
 [scikit-learn](https://scikit-learn.org/stable/modules/lda_qda.html#lda-qda)   
 
 ## Cluster Quality Metrics
+[SA vs EM vs DBI...](https://gdcoder.com/silhouette-analysis-vs-elbow-method-vs-davies-bouldin-index-selecting-the-optimal-number-of-clusters-for-kmeans-clustering/) by Georgios Drakos
 
 ### Davies-Bouldin Index (DBI)
 [Wikipedia](https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index) 
