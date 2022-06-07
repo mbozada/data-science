@@ -9,6 +9,7 @@ A repository for my independent study.
 ## Principal Component Analysis (PCA)  
 [Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)  
 [StatQuest](https://www.youtube.com/watch?v=FgakZw6K1QQ)  
+[Towards Data Science - A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) by Matt Brems
 
 ## Multidimensional Scaling (MDS)  
 [Wikipedia](https://en.wikipedia.org/wiki/Multidimensional_scaling)  
