@@ -65,8 +65,8 @@ Need to find a couple resources.
 [scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)  
 
 ## Pipelines
-[scikit-learn](https://scikit-learn.org/stable/modules/compose.html#combining-estimators)
-
+[scikit-learn](https://scikit-learn.org/stable/modules/compose.html#combining-estimators)  
+[Medium - A Simple Guide to Pipelines](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf) by Rebecca Vickery  
 
 # Resources  
 
