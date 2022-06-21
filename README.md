@@ -59,6 +59,14 @@ Need to find a couple resources.
 [IBM - Underfitting](https://www.ibm.com/cloud/learn/underfitting)  
 [StatQuest - Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
 
+## Cross-Validation
+[StatQuest - Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)  
+[StatQuest - Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)  
+[scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)  
+
+## Pipelines
+[scikit-learn](https://scikit-learn.org/stable/modules/compose.html#combining-estimators)
+
 
 # Resources  
 
