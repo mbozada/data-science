@@ -61,12 +61,20 @@ Need to find a couple resources.
 
 ## Cross-Validation
 [StatQuest - Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)  
-[StatQuest - Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)  
 [scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)  
 
 ## Pipelines
 [scikit-learn](https://scikit-learn.org/stable/modules/compose.html#combining-estimators)  
 [Medium - A Simple Guide to Pipelines](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf) by Rebecca Vickery  
+
+## ROC and AUC
+[StatQuest - Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)  
+[StatQuest - Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8)  
+[StatQuest - ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)  
+[scikit-learn - ROC](https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics)
+
+### Multiclass
+[Towards Data Science - Multiclass classification evaluation with ROC Curves and ROC AUC](https://towardsdatascience.com/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a) by Vinicius Trevisan  
 
 # Resources  
 
