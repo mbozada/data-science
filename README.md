@@ -76,6 +76,19 @@ Need to find a couple resources.
 ### Multiclass
 [Towards Data Science - Multiclass classification evaluation with ROC Curves and ROC AUC](https://towardsdatascience.com/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a) by Vinicius Trevisan  
 
+
+## F1-Score
+
+### Micro-Averaged
+### Macro-Averaged
+
+## Naive Bayes
+[3Blue1Brown - Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)  
+[StatQuest - Bayes Theorem](https://www.youtube.com/watch?v=9wCnvr7Xw4E)  
+[StatQuest -  Multinomial Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
+[StatQuest -  Gaussian Naive Bayes](https://www.youtube.com/watch?v=H3EjCKtlVog)  
+
+
 # Resources  
 
 ## Datasets  
