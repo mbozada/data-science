@@ -94,6 +94,7 @@ Need to find a couple resources.
 
 ### Bayesian Network
 [Wikipedia - Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)  
+[Towards Data Science - Intro to Bayesian Networks](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e) by Devin Soni  
 
 
 # Resources  
