@@ -83,10 +83,17 @@ Need to find a couple resources.
 ### Macro-Averaged
 
 ## Naive Bayes
+### Bayes Theorem
 [3Blue1Brown - Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)  
 [StatQuest - Bayes Theorem](https://www.youtube.com/watch?v=9wCnvr7Xw4E)  
+### Naive Bayes Classifiers
+[Towards Data Science - Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) by Rohith Gandhi  
+[scikit-learn - Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)  
 [StatQuest -  Multinomial Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
 [StatQuest -  Gaussian Naive Bayes](https://www.youtube.com/watch?v=H3EjCKtlVog)  
+
+### Bayesian Network
+[Wikipedia - Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)  
 
 
 # Resources  
