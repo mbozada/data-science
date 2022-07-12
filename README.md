@@ -78,14 +78,15 @@ Need to find a couple resources.
 
 
 ## F1-Score
-
-### Micro-Averaged
-### Macro-Averaged
+[Wikipedia - F-score](https://en.wikipedia.org/wiki/F-score)  
+[Towards Data Science - F1-Score, Macro, Weighted, and Micro](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) by Kenneth Leung  
 
 ## Naive Bayes
 ### Bayes Theorem
 [3Blue1Brown - Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)  
 [StatQuest - Bayes Theorem](https://www.youtube.com/watch?v=9wCnvr7Xw4E)  
+[Wikipedia - Bayes Classifier](https://en.wikipedia.org/wiki/Bayes_classifier)  
+
 ### Naive Bayes Classifiers
 [Towards Data Science - Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) by Rohith Gandhi  
 [scikit-learn - Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)  
