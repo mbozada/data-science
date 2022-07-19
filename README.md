@@ -99,7 +99,10 @@ Need to find a couple resources.
 
 ## Random Forest
 ### Information Theory
+[Wikipedia - Information Theory](https://en.wikipedia.org/wiki/Information_theory)  
 [Khan Academy - What is information theory?](https://www.youtube.com/watch?v=d9alWZRzBWk)  
+[Wikipedia - Mutual Information](https://en.wikipedia.org/wiki/Mutual_information)  
+[Wikipedia - Information Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory))  
 [Khan Academy - Information Entropy](https://www.youtube.com/watch?v=2s3aJfRr9gE)  
 [StatQuest - Expected Values](https://www.youtube.com/watch?v=KLs_7b7SKi4)  
 [StatQuest - Entropy (for data science)](https://www.youtube.com/watch?v=YtebGVx-Fxw)  
