@@ -108,8 +108,13 @@ Need to find a couple resources.
 [Wikipedia - Decision tree](https://en.wikipedia.org/wiki/Decision_tree)  
 [StatQuest - Decision and Classification Trees](https://www.youtube.com/watch?v=_L39rN6gz7Y)  
 [StatQuest - Regression Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)  
+[StatQuest - Pruning Regression Trees](https://www.youtube.com/watch?v=D0efHEJsfHo)  
+[Towards Data Science - Gini Index vs Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) by Andrew Hershy
 
 ### Random Forest
+[StatQuest - Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)  
+[StatQuest - Random Forests Part 2](https://www.youtube.com/watch?v=sQ870aTKqiM)  
+[Towards Data Science - Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205) by Joseph Rocca  
 
 # Datasets  
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)  
