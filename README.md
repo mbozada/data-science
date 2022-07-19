@@ -97,10 +97,21 @@ Need to find a couple resources.
 [Wikipedia - Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)  
 [Towards Data Science - Intro to Bayesian Networks](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e) by Devin Soni  
 
+## Random Forest
+### Information Theory
+[Khan Academy - What is information theory?](https://www.youtube.com/watch?v=d9alWZRzBWk)  
+[Khan Academy - Information Entropy](https://www.youtube.com/watch?v=2s3aJfRr9gE)  
+[StatQuest - Expected Values](https://www.youtube.com/watch?v=KLs_7b7SKi4)  
+[StatQuest - Entropy (for data science)](https://www.youtube.com/watch?v=YtebGVx-Fxw)  
 
-# Resources  
+### Decision Trees
+[Wikipedia - Decision tree](https://en.wikipedia.org/wiki/Decision_tree)  
+[StatQuest - Decision and Classification Trees](https://www.youtube.com/watch?v=_L39rN6gz7Y)  
+[StatQuest - Regression Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)  
 
-## Datasets  
+### Random Forest
+
+# Datasets  
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)  
 [Kaggle](https://www.kaggle.com/datasets)
 
