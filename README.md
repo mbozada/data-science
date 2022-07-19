@@ -118,6 +118,7 @@ Need to find a couple resources.
 [StatQuest - Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)  
 [StatQuest - Random Forests Part 2](https://www.youtube.com/watch?v=sQ870aTKqiM)  
 [Towards Data Science - Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205) by Joseph Rocca  
+[scikit-learn - Ensemble Methods](https://scikit-learn.org/stable/modules/ensemble.html)  
 
 # Datasets  
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)  
