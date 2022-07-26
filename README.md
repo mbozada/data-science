@@ -124,7 +124,7 @@ Need to find a couple resources.
 [3Blue1Brown - Neural Networks Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
 [StatQuest - Neural Networks / Deep Learning Playlist](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)  
 [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.27696&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
-[Towards Data Science - When Not to Use Neural Networks](https://towardsdatascience.com/when-not-to-use-neural-networks-a97608dbd3f6)  
+[Towards Data Science - When Not to Use Neural Networks](https://towardsdatascience.com/when-not-to-use-neural-networks-a97608dbd3f6) by Ygor Serpa  
 
 # Datasets  
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/ml/datasets)  
